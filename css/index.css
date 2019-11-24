@@ -42,6 +42,6 @@ body{
     height: 700px;
     grid-template-columns: repeat(3,70px);
     grid-template-rows: repeat(3,70px);
-    justify-content: flex-end;
-    align-content: center;
+    justify-content: flex-start;
+    align-content: flex-end;
 }
